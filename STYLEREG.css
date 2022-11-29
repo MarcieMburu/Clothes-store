@@ -1,0 +1,16 @@
+body{
+	background-image: url('https://images.pexels.com/photos/3048714/pexels-photo-3048714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-image: no-repeat;
+	background-image: cover;
+}
+.form{
+	text-align: center;
+}
+input[type=text], input[type=email], input[type=phone_number], input[type=password] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
